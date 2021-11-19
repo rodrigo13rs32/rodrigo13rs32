@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **mainly CakePHP.**
 
-- 📫 How to reach me **rodrigo13.rs32@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rodrigo-silva-34844820a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rodrigo-silva-34844820a" height="30" width="40" /></a>
