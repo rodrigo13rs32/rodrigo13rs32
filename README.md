@@ -24,7 +24,9 @@
   </a>
 </p>
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo13rs32&theme=dark)](https://git.io/streak-stats)
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo13rs32&theme=dark" target="blank">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo13rs32&theme=dark" />
+</a>
 <br>
 <div> 
   <div> 
