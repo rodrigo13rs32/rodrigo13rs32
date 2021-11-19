@@ -22,17 +22,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo13rs32&theme=dark)](https://git.io/streak-stats)
 <br>
 
-<div>
-  
+<div> 
   <div> 
     <p align="center"> 
       Visitor count<br>
       <img src="https://profile-counter.glitch.me/rodrigo13rs32/count.svg" />
     </p>
   </div>
-  
-  <div>
-   
+  <div>   
     <p align="center"> 
       Recently Listened<br> 
     </p>
@@ -41,8 +38,7 @@
     src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21hyplsgeee2gral5ix3v6oqy&redirect=true][https://spotify-github-profile.vercel.app    /api/view.svg?uid=21hyplsgeee2gral5ix3v6oqy&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f"
     alt="spotify" />
     </a>
-  </div>
-  
+  </div>  
 </div>
 
 
