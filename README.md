@@ -17,5 +17,17 @@
 
 [![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo13rs32&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo13rs32&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo13rs32&theme=dark)](https://git.io/streak-stats)
+
+<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
+  <img align="right"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
+    alt="spotify" />
+</a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rodrigo13rs32/count.svg" />
+</p>
 
 
