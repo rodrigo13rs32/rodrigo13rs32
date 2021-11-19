@@ -21,11 +21,7 @@
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo13rs32&theme=dark)](https://git.io/streak-stats)
 <br>
-<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
-  <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
-    alt="spotify" />
-</a>
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=21hyplsgeee2gral5ix3v6oqy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21hyplsgeee2gral5ix3v6oqy&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f)]]
 <br>
 <p align="center"> 
   Visitor count<br>
