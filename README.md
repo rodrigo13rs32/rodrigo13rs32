@@ -22,7 +22,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo13rs32&theme=dark)](https://git.io/streak-stats)
 <br>
 
-<div style='width:100%;display:flex;justify-content:space-around;flex-direction:row'>
+<div style='width:100%;display:flex;justify-content:space-around;flex-direction:row;'>
   <div style='width:45%;display:flex;flex-direction:column;'>
     <p align="center"> 
       Visitor count<br>
