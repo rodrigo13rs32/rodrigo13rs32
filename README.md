@@ -20,9 +20,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo13rs32&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br>
-<p align="center">
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo13rs32&theme=dark)](https://git.io/streak-stats)
-</p>
+</div>
 <br>
 
 <div> 
