@@ -24,9 +24,11 @@
   </a>
 </p>
 <br>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo13rs32&theme=dark" target="blank">
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo13rs32&theme=dark" target="blank">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo13rs32&theme=dark" />
-</a>
+  </a>
+</p>
 <br>
 <div> 
   <div> 
