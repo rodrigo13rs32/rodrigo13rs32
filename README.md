@@ -22,25 +22,19 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo13rs32&theme=dark)](https://git.io/streak-stats)
 <br>
 
-<div style='width:100%;display:flex;justify-content:space-around;flex-direction:row;'>
-  <div style='width:45%;display:flex;flex-direction:column;'>
-    <p align="center"> 
-      Visitor count<br>
-      <img src="https://profile-counter.glitch.me/rodrigo13rs32/count.svg" />
-    </p>
-  </div>
-  <br>
-  <div style='width:45%;display:flex;flex-direction:column;'>
-    <p align="center"> 
-      Recently Listened<br> 
-    </p>
-    <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
-      <img align="center"
-        src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21hyplsgeee2gral5ix3v6oqy&redirect=true][https://spotify-github-profile.vercel.app    /api/view.svg?uid=21hyplsgeee2gral5ix3v6oqy&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f"
-        alt="spotify" />
-    </a>
-  </div>
-</div>
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rodrigo13rs32/count.svg" />
+</p>
+
+<p align="right"> 
+  Recently Listened<br> 
+</p>
+<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
+  <img align="right"
+    src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21hyplsgeee2gral5ix3v6oqy&redirect=true][https://spotify-github-profile.vercel.app    /api/view.svg?uid=21hyplsgeee2gral5ix3v6oqy&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f"
+    alt="spotify" />
+</a>
 
 
 
