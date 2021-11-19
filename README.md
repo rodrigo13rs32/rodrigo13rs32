@@ -24,7 +24,6 @@
         alt="github" />
          </a>
       </p>
-  
       <p align="right"> 
           Most Used Languages<br> 
           <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo13rs32&layout=compact&theme=dark" target="blank">
