@@ -29,6 +29,7 @@
       <img src="https://profile-counter.glitch.me/rodrigo13rs32/count.svg" />
     </p>
   </div>
+  <br>
   <div>   
     <p align="center"> 
       Recently Listened<br> 
