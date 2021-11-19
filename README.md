@@ -29,12 +29,13 @@
       <img src="https://profile-counter.glitch.me/rodrigo13rs32/count.svg" />
     </p>
   </div>
+  <br>
   <div style='width:45%;display:flex;flex-direction:column;'>
     <p align="center"> 
       Recently Listened<br> 
     </p>
     <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
-      <img
+      <img align="center"
         src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21hyplsgeee2gral5ix3v6oqy&redirect=true][https://spotify-github-profile.vercel.app    /api/view.svg?uid=21hyplsgeee2gral5ix3v6oqy&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f"
         alt="spotify" />
     </a>
