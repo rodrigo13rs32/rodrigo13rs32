@@ -18,6 +18,7 @@
   <a href="https://github-readme-stats.vercel.app/api?username=rodrigo13rs32&theme=dark" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo13rs32&theme=dark" />
   </a>
+  <br>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo13rs32&layout=compact&theme=dark" target="blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo13rs32&layout=compact&theme=dark" />
   </a>
