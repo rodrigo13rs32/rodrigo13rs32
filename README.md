@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a company called Contactus S.A](https://contactus.pt)
 
-- 🌱 I’m currently learning **mainly CakePHP.**
+- 🌱 I’m currently working with **mainly CakePHP.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
